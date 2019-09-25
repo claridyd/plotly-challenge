@@ -1,1 +1,1 @@
-web: gunicorn belly_button_diversity.app:app
+web: gunicorn plotly-challenge.app:app

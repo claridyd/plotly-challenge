@@ -1,2 +1,2 @@
-web: gunicorn plotly-challenge.app:app
+web: gunicorn claridyd-plotly-challenge.app:app
 
